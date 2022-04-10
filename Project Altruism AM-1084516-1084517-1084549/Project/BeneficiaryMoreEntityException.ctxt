@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BeneficiaryMoreEntityException
+comment1.params=
+comment1.target=BeneficiaryMoreEntityException()
+comment2.params=message
+comment2.target=BeneficiaryMoreEntityException(java.lang.String)
+numComments=3

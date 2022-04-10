@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Donator
+comment1.params=x\ y\ org
+comment1.target=void\ add(Offers,\ RequestDonation,\ Organization)
+comment2.params=org
+comment2.target=void\ commit(Organization)
+comment3.params=
+comment3.target=java.util.ArrayList\ getOffersList()
+comment4.params=entity
+comment4.target=double\ getDonationAmount(Entity)
+numComments=5

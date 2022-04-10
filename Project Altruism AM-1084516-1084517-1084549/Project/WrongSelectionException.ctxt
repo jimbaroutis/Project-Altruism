@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WrongSelectionException
+comment1.params=
+comment1.target=WrongSelectionException()
+comment2.params=message
+comment2.target=WrongSelectionException(java.lang.String)
+numComments=3

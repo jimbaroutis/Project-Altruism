@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=org
+comment1.target=User\ login(Organization)
+comment2.params=org\ x
+comment2.target=void\ menu(Organization,\ User)
+numComments=3

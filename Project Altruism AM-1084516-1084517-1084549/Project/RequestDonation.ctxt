@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RequestDonation
+comment1.params=
+comment1.target=Entity\ getEntity()
+comment2.params=quantity
+comment2.target=void\ modifyquantity(double)
+comment3.params=
+comment3.target=double\ getQuantity()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=entity
+comment5.target=void\ setEntityRd(Entity)
+comment6.params=x
+comment6.target=boolean\ Compare(RequestDonation)
+numComments=7

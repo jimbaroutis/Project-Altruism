@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Material
+comment1.params=Level1\ Level2\ Level3
+comment1.target=void\ SetMeterial(double,\ double,\ double)
+comment2.params=
+comment2.target=java.util.ArrayList\ getLevels()
+comment3.params=
+comment3.target=java.lang.String\ getDetails()
+numComments=4

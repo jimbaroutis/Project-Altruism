@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Beneficiary
+comment1.params=x
+comment1.target=void\ setNoPeson(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getReceivedList()
+comment3.params=
+comment3.target=void\ ClearReceivedList()
+comment4.params=
+comment4.target=int\ getnoPerson()
+comment5.params=
+comment5.target=java.util.ArrayList\ getRequestsList()
+comment6.params=x\ y\ org
+comment6.target=void\ add(Requests,\ RequestDonation,\ Organization)
+comment7.params=org
+comment7.target=void\ commit(Organization)
+numComments=8

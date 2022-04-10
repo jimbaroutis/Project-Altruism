@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Requests
+comment1.params=x\ y
+comment1.target=boolean\ validRequestDonation(RequestDonation,\ Beneficiary)
+comment2.params=x\ y\ org
+comment2.target=void\ add(RequestDonation,\ User,\ Organization)
+comment3.params=y\ org
+comment3.target=void\ commit(Beneficiary,\ Organization)
+comment4.params=id\ quantity\ y\ org
+comment4.target=void\ modify(int,\ double,\ User,\ Organization)
+numComments=5
